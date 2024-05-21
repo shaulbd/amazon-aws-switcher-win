@@ -44,9 +44,7 @@ This Python script creates a small utility window using Tkinter that provides a 
     ```bash
     python aws-switcher.pyw
     ```
-
-    Replace `aws-switcher.pyw` with the name of your Python script file if it's different.
-
+    
 2. **Interacting with the Utility:**
 
     - Move your mouse cursor to the top of the screen (or the position you set) to make the utility window appear.
