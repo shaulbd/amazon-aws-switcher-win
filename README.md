@@ -20,7 +20,7 @@ This Python script creates a small utility window using Tkinter that provides a 
 1. **Clone the repository or download the script:**
 
     ```bash
-    git clone https://github.com/yourusername/aws-workspaces-taskbar-utility.git
+    git clone https://github.com/shaulbd/amazon-aws-switcher-win.git
     cd aws-workspaces-taskbar-utility
     ```
 
