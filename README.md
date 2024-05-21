@@ -21,7 +21,7 @@ This Python script creates a small utility window using Tkinter that provides a 
 
     ```bash
     git clone https://github.com/shaulbd/amazon-aws-switcher-win.git
-    cd aws-workspaces-taskbar-utility
+    cd amazon-aws-switcher-win
     ```
 
 2. **Install the required Python libraries:**
