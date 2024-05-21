@@ -42,10 +42,10 @@ This Python script creates a small utility window using Tkinter that provides a 
 1. **Run the script:**
 
     ```bash
-    python script.py
+    python aws-switcher.pyw
     ```
 
-    Replace `script.py` with the name of your Python script file if it's different.
+    Replace `aws-switcher.pyw` with the name of your Python script file if it's different.
 
 2. **Interacting with the Utility:**
 
